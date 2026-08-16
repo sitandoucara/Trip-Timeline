@@ -2,7 +2,7 @@
 
 > A spatial trip planner for SPECS. You pick a city, browse the activities it offers, read their details, and place them on the timeline of the day you want to plan. The Lens queries Google's AI for real opening hours, and the timeline only accepts an activity placed within those hours. A placed activity can then be marked as done, or unchecked and moved elsewhere — the order is never enforced.
 
-<!-- DEMO VIDEO — drop the uploaded video link here -->
+https://github.com/user-attachments/assets/cae8c6a6-9d46-4f94-9d57-5683ed4fab61
 
 DEMO LINK
 
