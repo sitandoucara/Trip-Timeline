@@ -1,0 +1,33 @@
+# ── Secrets & signing keys — NEVER commit ─────────────────────────
+*.pem
+*.key
+.env
+.env.*
+
+# ── macOS ─────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# ── Editors ───────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*~
+
+# ── AI agent local state ──────────────────────────────────────────
+.claude/
+.codex/
+.mcp.json
+scratchpad/
+
+# ── Temp artifacts ────────────────────────────────────────────────
+_p.tmp
+*.tmp
+*.log
+
+# Note: Lens Studio generates its own .gitignore inside Lens/
+# covering Cache/, Workspaces/, PluginsUserPreferences/, etc.
